@@ -5,7 +5,7 @@ from sqlalchemy.orm import sessionmaker
 
 #
 # password = urllib3('D@nidani1985')
-SQLALCHEMY_DATABASE_URL = "mysql+pymysql://gustavo:%s@localhost:3306/db_teste" % quote_plus("senhaAQUIcom@")
+SQLALCHEMY_DATABASE_URL = "mysql+pymysql://gustavo:%s@localhost:3306/db_teste" % quote_plus("XXX")
 
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
 SessionLocal = sessionmaker()

@@ -7,3 +7,5 @@ https://docs.sqlalchemy.org/en/14/core/connections.html#calling-stored-procedure
 http://127.0.0.1:8000/redoc#operation DEBUG
 
 http://127.0.0.1:8000/docs TESTES
+
+https://docs.sqlalchemy.org/en/14/core/ddl.html Constulta de views;
